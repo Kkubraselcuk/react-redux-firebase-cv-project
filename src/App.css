@@ -1,0 +1,21 @@
+/* .Form{
+  width: 90%;
+  max-width: 350px;
+  margin: 0 auto;
+  margin-top: 150px;
+} */
+*[type="email"], *[type="password"], *[type="name"]{
+  border: 1px solid rgb(241, 219, 76);
+}
+.sign-header{
+  text-align: center;
+}
+.card{
+  width: 300px;
+  display: inline-block;
+  margin: 15px;
+}
+.links{
+  font-size: 20px;
+  text-decoration: none;
+}
